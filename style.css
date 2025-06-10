@@ -16,7 +16,7 @@ body {
   width: 100%;
   height: 50%;
   height: 100vh;
-  background-image: url(kumar_enhanced.png);
+  background-image: url('kumar_enhanced.png');
   background-size: cover;
 }
 .container {
